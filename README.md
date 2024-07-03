@@ -48,6 +48,7 @@ Hey My Name is Ana Galvez, I'm a fullStack web developer from Argentina. I reall
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       </tr>
+      <tr valign="top">
           <td width="25%" align="center">
         <span>Node JS</span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
@@ -64,6 +65,13 @@ Hey My Name is Ana Galvez, I'm a fullStack web developer from Argentina. I reall
         <span>MySQL</span><br><br><br>
         <img height="64px" src="https://banner2.cleanpng.com/20180614/bgj/kisspng-mysql-database-logo-node-js-computer-software-5b22000ca56d66.6622869915289548926776.jpg">
       </td>
+        </tr>
+    <tr valign="top">
+                      <td width="25%" align="center">
+        <span>PHP My Admin</span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PhpMyAdmin_logo_2010_hidef.svg">
+      </td>
+    </tr>
   </tbody>
 </table>
 <hr>
