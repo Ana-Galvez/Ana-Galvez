@@ -56,6 +56,14 @@ Hey My Name is Ana Galvez, I'm a fullStack web developer from Argentina. I reall
         <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
+            <td width="25%" align="center">
+        <span>NPM</span><br><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg">
+      </td>
+                <td width="25%" align="center">
+        <span>MySQL</span><br><br><br>
+        <img height="64px" src="https://banner2.cleanpng.com/20180614/bgj/kisspng-mysql-database-logo-node-js-computer-software-5b22000ca56d66.6622869915289548926776.jpg">
+      </td>
   </tbody>
 </table>
 <hr>
