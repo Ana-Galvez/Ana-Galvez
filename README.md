@@ -67,9 +67,13 @@ Hey My Name is Ana Galvez, I'm a fullStack web developer from Argentina. I reall
       </td>
         </tr>
     <tr valign="top">
-                      <td width="25%" align="center">
+       <td width="25%" align="center">
         <span>PHP My Admin</span><br><br><br>
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PhpMyAdmin_logo_2010_hidef.svg">
+      </td>
+       <td width="25%" align="center">
+        <span>JSON</span><br><br><br>
+        <img height="64px" src="https://img.freepik.com/premium-vector/modern-flat-design-json-file-icon-web-simple-style_599062-468.jpg?w=740">
       </td>
     </tr>
   </tbody>
