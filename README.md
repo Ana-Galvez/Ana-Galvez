@@ -73,7 +73,7 @@ Hey My Name is Ana Galvez, I'm a fullStack web developer from Argentina. I reall
 
 <p align="center">
   <br/>
-  <a href="https://www.linkedin.com/in/ana-maria-galvez/">
+  <a href="https://www.linkedin.com/in/ana-maria-galvez/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
   </a>
   <a href="https://github.com/Ana-Galvez">
