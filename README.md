@@ -79,10 +79,17 @@ Hey My Name is Ana Galvez, I'm a fullStack web developer from Argentina. I reall
   </tbody>
 </table>
 <hr>
+<h2 align="center">
+My Proyects
+</h2>
+<ul>
+  <li>https://ana-galvez.github.io/Bootstrap-1/</li>
+</ul>
+<hr>
 
-<h1 align="center">
+<h2 align="center">
 ✨ Where you can find me ✨
-
+</h2>
 <p align="center">
   <br/>
   <a href="https://www.linkedin.com/in/ana-maria-galvez/" target="_blank">
@@ -92,7 +99,7 @@ Hey My Name is Ana Galvez, I'm a fullStack web developer from Argentina. I reall
     <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
   </a>
 </p>
-</h1>
+
 
 <div align = "center">
 
