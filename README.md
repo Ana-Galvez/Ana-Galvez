@@ -6,7 +6,7 @@
 Hey My Name is Ana Galvez, I'm a <strong>fullStack web developer</strong> from Buenos Aires, Argentina. I really like programming ❤❤❤❤💻💻💻💻<br>
 I am self-taught currently, but I studied in Codo A Codo and Argentina Programa.<br><br>
 <b>Hobbies</b>: I love history movies and series, study and practice programming, learn english.<br><br>
-<b>Goals</b>: My current goal is continuing to improve as a web developer and getting a job and work with more people.
+<b>Goals</b>: My current goal is to improve every day as a web developer and getting a job and work with more people.
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 <table>
   <tbody>
