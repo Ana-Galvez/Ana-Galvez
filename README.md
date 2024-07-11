@@ -3,80 +3,63 @@
 
 ## About Me
 
-Hey My Name is Ana Galvez, I'm a fullStack web developer from Argentina. I really like programming ❤❤❤❤💻💻💻💻
-
+Hey My Name is Ana Galvez, I'm a <strong>fullStack web developer</strong> from Buenos Aires, Argentina. I really like programming ❤❤❤❤💻💻💻💻<br>
+I am self-taught currently, but I studied in Codo A Codo and Argentina Programa.<br><br>
+<b>Hobbies</b>: I love history movies and series, study and practice programming, learn english.<br><br>
+<b>Goals</b>: My current goal is continuing to improve as a web developer and getting a job and work with more people.
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
-
 <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
+      <td width="20%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
-      <td width="25%" align="center">
-        <span>𝗖𝗦𝗦𝟯</span><br><br><br>
+      <td width="20%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
-            <td width="25%" align="center">
-        <span>Bootstrap</span><br><br><br>
+      <td width="20%" align="center">
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg">
-            </td>
-      <td width="25%" align="center">
-        <span>𝗝𝗮𝘃𝗮𝗦𝗰𝗿𝗶𝗽𝘁</span><br><br><br>
+      </td>
+      <td width="20%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
     </tr>
-      <tr valign="top">
-      <td width="25%" align="center">
-        <span><strong>React</strong>
-        </span><br><br><br>
+    <tr valign="top">
+      <td width="20%" align="center">
         <img height="64px" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png">
       </td>
-      <td width="25%" align="center">
-        <span><strong>Vite</strong>
-        </span><br><br><br>
+      <td width="20%" align="center">
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg">
       </td>
-      <td width="25%" align="center">
-        <span>Node JS</span><br><br><br>
+      <td width="20%" align="center">
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
       </td>
-      <td width="25%" align="center">
-        <span>NPM</span><br><br><br>
+      <td width="20%" align="center">
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg">
       </td>
       </tr>
       <tr valign="top">
-      <td width="25%" align="center">
-        <span>𝗚𝗶𝘁</span><br><br><br>
+      <td width="20%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
-      <td width="25%" align="center">
-        <span><strong>Markdown</strong>
-        </span><br><br><br>
+      <td width="20%" align="center">
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg">
       </td>
-      <td width="25%" align="center">
-        <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
+      <td width="20%" align="center">
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
-      <td width="25%" align="center">
-        <span>SQL</span><br><br><br>
+      <td width="20%" align="center">
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png">
       </td>
       </tr>
     <tr valign="top">
-        <td width="25%" align="center">
-        <span>MySQL</span><br><br><br>
+        <td width="20%" align="center">
         <img height="64px" src="https://banner2.cleanpng.com/20180614/bgj/kisspng-mysql-database-logo-node-js-computer-software-5b22000ca56d66.6622869915289548926776.jpg">
       </td>
-       <td width="25%" align="center">
-        <span>PHP My Admin</span><br><br><br>
+       <td width="20%" align="center">
         <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PhpMyAdmin_logo_2010_hidef.svg">
       </td>
-       <td width="25%" align="center">
-        <span>JSON</span><br><br><br>
+       <td width="20%" align="center">
         <img height="64px" src="https://img.freepik.com/premium-vector/modern-flat-design-json-file-icon-web-simple-style_599062-468.jpg?w=740">
       </td>
     </tr>
@@ -86,9 +69,9 @@ Hey My Name is Ana Galvez, I'm a fullStack web developer from Argentina. I reall
 <h2 align="center">
 My Proyects
 </h2>
-<ul>
+
   <li>https://ana-galvez.github.io/Bootstrap-1/</li>
-</ul>
+
 <hr>
 
 <h2 align="center">
