@@ -66,6 +66,11 @@ I am self-taught currently, but I studied in Codo A Codo and Argentina Programa.
         <img height="48px" src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp8zmacb5c0qqoz7o3ioo.jpg">
       </td>
     </tr>
+    <tr>
+      <td width="20%" align="center">
+        <img height="48px" src="https://img.utdstc.com/icon/f6f/11c/f6f11c75fda63dd454fa5db9610a77cfd6752be4db11010f2e4252551a4abccd:100">
+      </td>
+    </tr>
   </tbody>
 </table>
 <hr>
