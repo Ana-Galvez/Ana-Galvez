@@ -32,9 +32,6 @@ I am self-taught and currently I'm studying the associate degree in software dev
         <img height="48px" src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg">
       </td>
       <td width="20%" align="center">
-        <img height="48px" src="https://media.licdn.com/dms/image/C5612AQGdob_GAWTQ1A/article-cover_image-shrink_720_1280/0/1520216329470?e=1727913600&v=beta&t=Ke63EI5KtmypltOgBPAVzuWWKkrOXRlyxCsqXoySZ4M">
-      </td>
-      <td width="20%" align="center">
         <img height="48px" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg">
       </td>
       </tr>
