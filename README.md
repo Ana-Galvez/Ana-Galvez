@@ -62,9 +62,7 @@ I am self-taught and currently I'm studying the associate degree in software dev
        <td width="20%" align="center">
         <img height="48px" src="https://img.freepik.com/premium-vector/modern-flat-design-json-file-icon-web-simple-style_599062-468.jpg?w=740">
       </td>
-       <td width="20%" align="center">
-        <img height="48px" src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fp8zmacb5c0qqoz7o3ioo.jpg">
-      </td>
+
     </tr>
     <tr>
       <td width="20%" align="center">
