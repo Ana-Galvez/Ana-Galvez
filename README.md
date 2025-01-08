@@ -34,6 +34,9 @@ I am self-taught and currently I'm studying the associate degree in software dev
       <td width="20%" align="center">
         <img height="48px" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Npm-logo.svg">
       </td>
+      <td width="20%" align="center">
+        <img height="48px" src="https://en.wikipedia.org/wiki/Visual_Studio#/media/File:Visual_Studio_Icon_2022.svg">
+      </td>
       </tr>
       <tr valign="top">
       <td width="20%" align="center">
