@@ -54,7 +54,7 @@ I am self-taught and currently I'm studying the associate degree in software dev
       </tr>
     <tr valign="top">
         <td width="20%" align="center">
-        <img height="48px" src="https://banner2.cleanpng.com/20180614/bgj/kisspng-mysql-database-logo-node-js-computer-software-5b22000ca56d66.6622869915289548926776.jpg">
+        <img height="48px" src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg">
       </td>
        <td width="20%" align="center">
         <img height="48px" src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PhpMyAdmin_logo_2010_hidef.svg">
