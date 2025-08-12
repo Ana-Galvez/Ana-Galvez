@@ -8,7 +8,7 @@ I am self-taught and currently I'm studying the associate degree in software dev
 **Hobbies**: I love history movies and series, study and practice programming and learn English.<br><br>
 **Goals**: My current goal is to improve every day as a web and software developer, getting a job and working with more people.
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
-<table>
+<table align="center">
   <tbody>
     <tr valign="top">
       <td width="20%" align="center">
